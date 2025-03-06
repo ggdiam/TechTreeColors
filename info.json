@@ -1,0 +1,12 @@
+{
+    "name": "TechTreeColors",
+    "version": "1.0.0",
+    "title": "Tech Tree Colors",
+    "author": "ggDiam",
+    "factorio_version": "2.0",
+    "homepage": "https://github.com/ggdiam/TechTreeColors",
+    "dependencies": [
+        "base >= 2.0"
+    ],
+    "description": "Changes available tech color to more contrast in tech tree"
+}
